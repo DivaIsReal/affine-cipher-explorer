@@ -2,6 +2,8 @@
 
 Tool interaktif untuk enkripsi dan dekripsi pesan menggunakan Affine Cipher dengan visualisasi step-by-step yang lengkap.
 
+🌐 **Live Demo:** [https://affinecipherdiva.vercel.app/](https://affinecipherdiva.vercel.app/)
+
 ## Features
 
 - 🔐 Enkripsi dan dekripsi dengan Affine Cipher
